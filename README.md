@@ -1,5 +1,3 @@
-# Laboratório de Inovação e Automação 1
-
 <h1>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_iNWaskR_ZFX3X0IL97-y08e-N-izqBwBA&s" 
        alt="Logo Laboratório de Inovação e Automação" 
