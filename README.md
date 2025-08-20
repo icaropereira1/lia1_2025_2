@@ -1,7 +1,7 @@
 # Laboratório de Inovação e Automação 1
 
 <p align="center">
-  <img src="" alt="Logo Laboratório de Inovação e Automação">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_iNWaskR_ZFX3X0IL97-y08e-N-izqBwBA&s" alt="Logo Laboratório de Inovação e Automação">
 </p>
 
 ## Sobre a Disciplina
@@ -18,7 +18,7 @@ O objetivo é capacitar os estudantes a desenvolverem, testarem e validarem mode
 
 Este repositório está organizado para facilitar o acesso aos materiais e projetos desenvolvidos ao longo da disciplina. Abaixo, a estrutura principal:
 
-- `Entregas/`: Contém os diretórios dos projetos práticos, cada um com sua própria documentação (`README.md`), código-fonte e resultados.
+- `Entregas/`: 
 
 
 ---
