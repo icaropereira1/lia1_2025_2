@@ -1,12 +1,12 @@
 # Laboratório de Inovação e Automação 1
 
 <p align="center">
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2021/11/26/IA-Logo-design-vector-Graphics-20773138-1-1-580x386.jpg" alt="Logo Laboratório de Inovação e Automação">
+  <img src="" alt="Logo Laboratório de Inovação e Automação">
 </p>
 
 ## Sobre a Disciplina
 
-Esta é a página do repositório da disciplina de **Laboratório de Inovação e Automação 1 (LIA)**, ofertada no curso de **Engenharia de Computação** na **Universidade de Brasília (UFG)**.  
+Esta é a página do repositório da disciplina de **Laboratório de Inovação e Automação 1 (LIA)**, ofertada no curso de **Engenharia de Computação** na **Universidade de Goiás (UFG)**.  
 A matéria se concentra em aplicar conceitos teóricos de Inovação e Automação por meio de projetos práticos.
 
 Durante o semestre, exploramos e implementamos soluções para problemas complexos, utilizando técnicas de **Machine Learning**, **Deep Learning** e outros paradigmas da **Inteligência Artificial (IA)**.  
