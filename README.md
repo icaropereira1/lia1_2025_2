@@ -1,8 +1,13 @@
 # Laboratório de Inovação e Automação 1
 
-<p align="left">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_iNWaskR_ZFX3X0IL97-y08e-N-izqBwBA&s" alt="Logo Laboratório de Inovação e Automação" width="120">
-</p>
+<h1>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_iNWaskR_ZFX3X0IL97-y08e-N-izqBwBA&s" 
+       alt="Logo Laboratório de Inovação e Automação" 
+       width="60" 
+       style="vertical-align: middle; margin-right: 10px;">
+  Laboratório de Inovação e Automação 1
+</h1>
+
 
 ## Sobre a Disciplina
 
